@@ -1,2 +1,2 @@
 # NotePad
-Java-swing project
+Simple text editor written in java swing
